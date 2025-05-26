@@ -39,18 +39,23 @@ a.nav-link {
 }
 
 .header-dark h1 {
-  color: #fff;
+  color: #ffffff;
   font-family: 'JetBrains Mono', monospace;
   font-size: 40px;
   padding-top: 60px;
+  font-weight: bold;
+  font-family: 'Times New Roman', Times, serif;
 }
+
+
 
 /* Highlight Clean */
 .highlight-clean {
-  color: #313437;
+  color: #ffffff;
   background-color: #fff;
   padding: 50px 0;
-  font-family: 'JetBrains Mono', monospace;
+  font-weight: bold;
+  font-family: 'Times New Roman', Times, serif;
 }
 
 .highlight-clean p {
