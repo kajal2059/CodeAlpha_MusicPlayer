@@ -1,1 +1,1 @@
-This is a Music Player Website which is made using JavaScript also included HTML (Hyper Text Markup Language) & CSS (Cascading Style Sheets) adding styling to each elements defined in the HTML file.
+This is a Music Player Website which is made using JavaScript also included HTML (Hyper Text Markup Language) & CSS (Cascading Style Sheets) adding styling to each elements defined in the HTML file.K
